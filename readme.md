@@ -1,7 +1,7 @@
 
 # ATtiny85 USB "Rubber Ducky"
 ## Creating a rubber ducky from an inexpensive programmable microcontroller and deploy a payload on a patched Windows 10 system.
- A research project by: Nate Ward.
+_A research project by: Nate Ward._
 
 ### Why this project?
 
