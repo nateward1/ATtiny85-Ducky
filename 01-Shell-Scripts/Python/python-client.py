@@ -1,4 +1,4 @@
-
+// Code written by: Abdou Rockikz, availible @ https://www.thepythoncode.com/article/create-reverse-shell-python
 
 import socket
 import os
