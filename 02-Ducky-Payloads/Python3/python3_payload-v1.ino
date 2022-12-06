@@ -1,4 +1,3 @@
-
 // Powershell Version 1: written for Cybersecurity Project 4 Presentation
 //   1. Opens a very tiny Powershell window as Admin via 'taskmgr'
 //   2.  Close 'taskmgr', no longer needed.
