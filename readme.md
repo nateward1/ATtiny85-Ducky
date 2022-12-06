@@ -109,7 +109,7 @@ while True:
     results, cwd = output.split(SEPARATOR)
     # print output
     print(results)
-    ```
+```
 
 ## Rubber Ducky Scripts (ATtiny85 / Arduino)
 1. Powershell (v1): [powershell_payload.ino](02-Ducky-Payloads/Powershell/powershell_payload-v1.ino)
