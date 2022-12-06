@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+// Code written by: Abdou Rockikz, availible @ https://www.thepythoncode.com/article/create-reverse-shell-python
 
 import socket
 
